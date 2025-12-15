@@ -1,8 +1,8 @@
-# Marketing Analytics for Laptop Sales Optimization
+# Marketing Analytics for Vehicle Sales Optimization
 
 ## Overview
 
-This project aimed to optimize laptop sales by leveraging data analytics to understand customer preferences, evaluate pricing strategies, and assess brand performance. The insights derived were used to drive marketing strategy, inform product segmentation, and improve targeted campaign effectiveness.
+This project aimed to optimize Vehicle sales by leveraging data analytics to understand customer preferences, evaluate pricing strategies, and assess brand performance. The insights derived were used to drive marketing strategy, inform product segmentation, and improve targeted campaign effectiveness.
 
 ## Objectives
 
@@ -20,7 +20,7 @@ This project aimed to optimize laptop sales by leveraging data analytics to unde
 
 - Aggregated sales, pricing, product specifications, and customer data from multiple sources.
 
-- Ensured data covered a representative sample of laptop brands, models, and market segments.
+- Ensured data covered a representative sample of Vehicle brands, models, and market segments.
 
 ### Data Cleaning & Preprocessing:
 
@@ -30,9 +30,9 @@ This project aimed to optimize laptop sales by leveraging data analytics to unde
 
 ### Analysis & Modeling:
 
-- ANOVA: Tested for significant price differences across laptop brands to identify premium vs. budget positioning.
+- ANOVA: Tested for significant price differences across vehicle brands to identify premium vs. budget positioning.
 
-- Linear Regression: Evaluated which features (RAM, processor type, screen size, etc.) significantly impacted sales volume.
+- Linear Regression: Evaluated which features significantly impacted sales volume.
 
 - Clustering Analysis: Segmented customers based on purchase behavior and preferences to inform personalized marketing campaigns.
 
